@@ -1,0 +1,2 @@
+χ²=3.7, dof=19, p=9.999e-01
+There is correlated.
