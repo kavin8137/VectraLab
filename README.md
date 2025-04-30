@@ -43,7 +43,7 @@ I have also included a short demonstration video on explaning how the program wo
 
 # Useful Websites
 
-* [Numpy](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://numpy.org/doc/2.2/numpy-user.pdf)
+* [Numpy](https://numpy.org/doc/2.2/numpy-user.pdf)
 * [Matplotlib](https://matplotlib.org/stable/users/index.html)
 * [Pandas](https://pandas.pydata.org/docs/user_guide/index.html)
 * [Scipy](https://docs.scipy.org/doc/scipy/tutorial/index.html#user-guide)
