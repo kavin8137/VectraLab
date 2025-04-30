@@ -15,7 +15,7 @@ The design of this program is to ease the statistical analysis when performing t
 
 I have also included a short demonstration video on explaning how the program works.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://somup.com/cTfvfnMcaK)
 
 # Data Analysis Results
 
@@ -52,7 +52,7 @@ I have also included a short demonstration video on explaning how the program wo
 * [tkinter](https://docs.python.org/3/library/tkinter.html)
 * [ttk](https://docs.python.org/3/library/tkinter.ttk.html)
 * [PIL (Pillow)](https://pillow.readthedocs.io/en/stable/)
-* [$\chi^2$ Test](https://en.wikipedia.org/wiki/Chi-squared_test)
+* [Chi Squared Test](https://en.wikipedia.org/wiki/Chi-squared_test)
 * [Student t-test](https://en.wikipedia.org/wiki/Student%27s_t-test)
 * [Chauvenet Criterion](https://en.wikipedia.org/wiki/Chauvenet%27s_criterion)
 
