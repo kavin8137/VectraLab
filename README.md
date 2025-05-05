@@ -15,7 +15,7 @@ The design of this program is to ease the statistical analysis when performing t
 
 I have also included a short demonstration video on explaning how the program works.
 
-[Software Demo Video](https://somup.com/cTfvfnMcaK)
+[Software Demo Video](https://somup.com/cThh0UM6im)
 
 # Data Analysis Results
 
